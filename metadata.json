@@ -1,0 +1,6 @@
+{
+  "name": "Neural Style Transfer Studio",
+  "description": "Apply the artistic style of famous paintings to any photo using neural style transfer, featuring instant client-side neural shaders, AI masterpiece generation, and deep style analysis.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
